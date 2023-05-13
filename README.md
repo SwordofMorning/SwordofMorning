@@ -21,6 +21,5 @@
 <p align="center">
 <a href="https://swordofmorning.com/"><img alt="Website" src="https://img.shields.io/badge/Website-swordofmorning.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:xjt.include@gmail.com
-"><img alt="Email" src="https://img.shields.io/badge/Email-xjt.include@gmail.com
--blue?style=flat-square&logo=gmail"></a>
+"><img alt="Email" src="https://img.shields.io/badge/Email-xjt.include@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
