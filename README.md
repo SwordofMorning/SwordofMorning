@@ -1,4 +1,7 @@
 <img src="./pic/Aokana.png">
+<center><em>Beyond the sky, into the firmament</em></center>
+
+<br/>
 
 <h2> Hey there! I'm SoM.</h2>
 
