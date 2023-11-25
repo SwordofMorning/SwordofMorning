@@ -26,3 +26,5 @@
 <a href="mailto:xjt.include@gmail.com
 "><img alt="Email" src="https://img.shields.io/badge/Email-xjt.include@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=gengyanlei&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
