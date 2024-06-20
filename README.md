@@ -1,5 +1,5 @@
 <img src="./pic/Aokana.png">
-<center><em>Beyond the sky, into the firmament</em></center>
+<p align="center"><em>Beyond the sky, into the firmament</em></p>
 
 <br/>
 
@@ -23,6 +23,6 @@
 
 <p align="center">
 <a href="https://swordofmorning.com/"><img alt="Website" src="https://img.shields.io/badge/Website-swordofmorning.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:xjt.include@gmail.com
-"><img alt="Email" src="https://img.shields.io/badge/Email-xjt.include@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:master@xiaojintao.email
+"><img alt="Email" src="https://img.shields.io/badge/Email-master@xiaojintao.email-blue?style=flat-square&logo=gmail"></a>
 </p>
