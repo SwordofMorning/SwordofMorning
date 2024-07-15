@@ -5,7 +5,7 @@
 
 ## Bon<sub>bu</sub>jour<sub>le</sub> !
 
-I go by `SoM`, which stands for Sword of Morning. Alternatively, you can call me `Morning`.
+I go by `SoM`, which stands for SwordofMorning. Alternatively, you can call me `Morning`.
 
 ### 💻 &nbsp; About Me
 
