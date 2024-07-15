@@ -12,7 +12,7 @@ I go by `SoM`, which stands for SwordofMorning. Alternatively, you can call me `
 - `Bachelor`: Software Engineering from SWUST.
 - `Current`: Embedded Android/Linux System Engineer.
 
-### 🔧 &nbsp; Technology Stack
+### 🔧 &nbsp; Tech Stack
 
 1. **C/C++**: Linux Driver, Application and Windows Application;
 2. **Java**: Android Application;
@@ -20,7 +20,7 @@ I go by `SoM`, which stands for SwordofMorning. Alternatively, you can call me `
 
 ### 📝 &nbsp; Resume
 
-You can view my resume by clicking <a href="https://swordofmorning.com/index.php/contact/">here</a>.
+You can view my work experience by clicking <a href="https://swordofmorning.com/index.php/contact/">here</a>.
 
 ### 🤝🏻 &nbsp; Contact
 
