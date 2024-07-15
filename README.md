@@ -19,13 +19,10 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Contact with Me </h3>
+<h3> 🤝🏻 &nbsp;Contact </h3>
 
 <p align="center">
-
 <a href="https://swordofmorning.com/"><img alt="Website" src="https://img.shields.io/badge/Website-swordofmorning.com-blue?style=flat-square&logo=google-chrome"></a>
-
 <a href="mailto:master@xiaojintao.email
 "><img alt="Email" src="https://img.shields.io/badge/Email-master@xiaojintao.email-blue?style=flat-square&logo=gmail"></a>
-
 </p>
