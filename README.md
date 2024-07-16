@@ -3,7 +3,7 @@
 
 <br/>
 
-## Bon<sub>bu</sub>jour<sub>le</sub> !
+## Bon<sub><em><font size=2>bu</font></em></sub>jour<sub><em><font size=2>le</font></em></sub> !
 
 I go by `SoM`, which stands for SwordofMorning. Alternatively, you can call me `Morning`.
 
