@@ -32,7 +32,8 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 
 <br/>
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SwordofMorning)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/>
 
