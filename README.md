@@ -32,10 +32,7 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 
 <br/>
 
-<a href="https://github.com/SwordofMorning">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwordofMorning&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwordofMorning&theme=buefy&layout=compact" />
-</a>
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SwordofMorning)
 
 <br/>
 
