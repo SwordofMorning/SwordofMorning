@@ -30,6 +30,12 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 "><img alt="Email" src="https://img.shields.io/badge/Email-master@xiaojintao.email-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+### 🚲 &nbsp; Hobby
+
+1. Strava: `111090606`, I am a Cat6 cyclist - "Is there really a category called Cat6?"
+2. Steam: `212899807`, An RPG that doesn't allow players to "retire" NPCs at will isn't a good RPG.
+3. Ultimate-Guitar: `SwordofMorning`, Can you imagine? Before I started working, I was even a metal guitarist.
+
 <br/>
 
 <!--START_SECTION:waka-->
@@ -107,11 +113,3 @@ Python                   1 repo              █░░░░░░░░░░�
 
  Last Updated on 06/08/2024 08:03:12 UTC
 <!--END_SECTION:waka-->
-
-<br/>
-
-### 🚲 &nbsp; Hobby
-
-1. Strava: `111090606`, I am a Cat6 cyclist - "Is there really a category called Cat6?"
-2. Steam: `212899807`, An RPG that doesn't allow players to "retire" NPCs at will isn't a good RPG.
-3. Ultimate-Guitar: `SwordofMorning`, Can you imagine? Before I started working, I was even a metal guitarist.
