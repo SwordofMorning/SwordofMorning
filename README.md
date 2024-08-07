@@ -39,13 +39,13 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.9 MB Used in GitHub's Storage 
- > 
-> 🏆 217 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -116,5 +116,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SwordofMorning/SwordofMorning/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2024 00:26:28 UTC
+ Last Updated on 07/08/2024 01:20:04 UTC
 <!--END_SECTION:waka-->
