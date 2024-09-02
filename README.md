@@ -47,8 +47,6 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
-> 🏆 277 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -120,5 +118,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SwordofMorning/SwordofMorning/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2024 01:42:25 UTC
+ Last Updated on 02/09/2024 01:25:00 UTC
 <!--END_SECTION:waka-->
