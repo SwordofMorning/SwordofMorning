@@ -39,7 +39,7 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,5 +120,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SwordofMorning/SwordofMorning/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2024 01:28:36 UTC
+ Last Updated on 29/09/2024 01:42:28 UTC
 <!--END_SECTION:waka-->
