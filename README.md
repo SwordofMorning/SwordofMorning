@@ -35,7 +35,7 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   13 mins         █████████████████████████   100.00 %
+Markdown   24 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
