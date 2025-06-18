@@ -35,11 +35,11 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      6 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.62 %
-C++           2 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-C             1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-Other         1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-Devicetree    54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Markdown      6 hrs 2 mins    ███████████▓░░░░░░░░░░░░░   46.51 %
+C++           2 hrs           ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
+C             1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+Other         1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+Devicetree    54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
 ```
 
 <!--END_SECTION:waka-->
