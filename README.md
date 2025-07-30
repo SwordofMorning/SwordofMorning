@@ -35,7 +35,8 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C       12 mins         █████████████████████░░░░   83.37 %
+CMake   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
 ```
 
 <!--END_SECTION:waka-->
