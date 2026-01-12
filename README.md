@@ -1,4 +1,5 @@
-<img src="./pic/Aokana.png">
+<img src="./assets/Aokana.png">
+
 <p align="center"><em>Beyond the sky, into the firmament</em></p>
 
 <br/>
@@ -14,9 +15,16 @@ I go by `SoM`, which stands for SwordofMorning. Alternatively, you can call me `
 
 ### 🔧 &nbsp; Tech Stack
 
-1. **C/C++**: Linux Driver, Application and Windows Application;
-2. **Java**: Android Application;
-3. **MATLAB/Python**: Computer Vision, Machine Learning.
+1. **Linux & C/C++**
+    - **System Architecture**: Coordination of U-boot, Kernel, and Filesystem (e.g., A/B Partition, OTA);
+    - **Kernel & Driver**: Linux driver development and low-level system debugging;
+    - **High-speed Bus**: MIPI-CSI analysis and troubleshooting from protocol to physical layer.
+2. **DevOps & Automation**
+    - **CI/CD**: Workflow automation using GitHub/GitLab Actions;
+    - **Build System**: Bash scripting for automated packaging and build environments.
+3. **Python & MATLAB**
+    - **Algorithms**: Computer Vision, Image Processing, and Machine Learning;
+    - **Computation**: Numerical analysis and data simulation.
 
 ### 📝 &nbsp; Resume
 
