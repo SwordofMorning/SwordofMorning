@@ -19,9 +19,10 @@ I go by `SoM`, which stands for SwordofMorning. Alternatively, you can call me `
     - **System Architecture**: Coordination of U-boot, Kernel, and Filesystem (e.g., A/B Partition, OTA);
     - **Kernel & Driver**: Linux driver development and low-level system debugging;
     - **High-speed Bus**: MIPI-CSI analysis and troubleshooting from protocol to physical layer.
-2. **DevOps & Automation**
-    - **CI/CD**: Workflow automation using GitHub/GitLab Actions;
-    - **Build System**: Bash scripting for automated packaging and build environments.
+2. **Dev & Doc**
+    - **CI/CD**: Workflow automation via GitHub/GitLab Actions;
+    - **Build System**: Shell scripting for automated build;
+    - **Md/Latex**: Clean and organized documentation writting.
 3. **Python & MATLAB**
     - **Algorithms**: Computer Vision, Image Processing, and Machine Learning;
     - **Computation**: Numerical analysis and data simulation.
