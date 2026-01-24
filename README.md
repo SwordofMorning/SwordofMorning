@@ -44,11 +44,11 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 <!--START_SECTION:waka-->
 
 ```txt
-Python       9 hrs 25 mins   █████████████▓░░░░░░░░░░░   54.17 %
-Markdown     4 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.83 %
-TeX          59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-Devicetree   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Python       9 hrs 37 mins   ███████████████▓░░░░░░░░░   62.08 %
+Markdown     3 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+TeX          44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+PowerShell   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+CMake        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
