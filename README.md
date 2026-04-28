@@ -44,11 +44,11 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 <!--START_SECTION:waka-->
 
 ```txt
-Python        7 hrs 9 mins          ███████████▒░░░░░░░░░░░░░   45.51 %
-Markdown      3 hrs 56 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
-JSON          1 hr 24 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-C++           1 hr 5 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-YAML          34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Python        6 hrs 29 mins         ████████████▓░░░░░░░░░░░░   50.69 %
+Markdown      2 hrs 31 mins         █████░░░░░░░░░░░░░░░░░░░░   19.75 %
+C++           1 hr 5 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+JSON          36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+YAML          32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 ```
 
 <!--END_SECTION:waka-->
