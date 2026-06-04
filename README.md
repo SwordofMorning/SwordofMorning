@@ -44,11 +44,9 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     6 hrs 29 mins         █████████████████████▓░░░   86.08 %
-C++          16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-C            13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Makefile     7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Bash         6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Markdown   14 hrs 5 mins         ████████████████████████▒   97.30 %
+Bash       23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
