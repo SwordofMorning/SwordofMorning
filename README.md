@@ -44,11 +44,11 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   14 hrs 44 mins        ████████████████████████░   96.21 %
-Bash       23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-C++        6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-C          4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown   12 hrs 51 mins        ████████████████████████░   95.69 %
+Bash       23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+C++        6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+C          4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+CMake      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
