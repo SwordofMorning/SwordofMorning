@@ -44,11 +44,11 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     10 hrs 33 mins        ███████████████████████▒░   93.43 %
-Devicetree   16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Bash         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-YAML         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Text         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Markdown     11 hrs 45 mins        ███████████████████████▓░   94.05 %
+Devicetree   16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Bash         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+YAML         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Text         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
