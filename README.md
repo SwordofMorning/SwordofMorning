@@ -44,11 +44,11 @@ You can view my work experience by clicking <a href="https://swordofmorning.com/
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   3 hrs 27 mins         ████████░░░░░░░░░░░░░░░░░   32.11 %
-Other      2 hrs 25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
-TeX        1 hr 15 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-C          1 hr 1 min            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-INI        1 hr 1 min            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+Markdown   3 hrs                 ████████▒░░░░░░░░░░░░░░░░   33.68 %
+Other      1 hr 42 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
+TeX        1 hr 15 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+INI        57 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+C          45 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
 ```
 
 <!--END_SECTION:waka-->
